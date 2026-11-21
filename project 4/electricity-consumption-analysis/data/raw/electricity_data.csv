@@ -1,0 +1,256 @@
+Household_ID,City,Housing_Type,Tariff_Plan,Household_Size,Home_Area_Sqft,Num_Air_Conditioners,Avg_Temperature_C,Meter_Age_Years,Billing_Date,Monthly_Units_kWh
+E1139,Mumbai,Independent House,Standard,4,1320,2,30.7,1,2025-07-22,211
+E1119,Delhi,Apartment,Standard,4,1230,2,35.4,4,2025-05-05,232
+E1007,Delhi,Apartment,Time_of_Day,3,870,2,36.4,9,2026-06-17,182
+E1184,Mumbai,Apartment,Solar_Net_Metering,4,950,1,27.1,5,2025-03-05,209
+E1089,Delhi,Apartment,Standard,2,900,1,25.4,0,2026-08-23,183
+E1095,Chennai,Independent House,Time_of_Day,2,1590,3,25.8,6,2025-10-17,266
+E1126,delhi,Apartment,Standard,3,880,2,18.0,1,2026-01-22,259
+E1174,Kolkata,Apartment,Time_of_Day,4,560,1,23.4,2,2025-09-16,107
+E1151,Kolkata,Independent House,Solar_Net_Metering,5,1440,1,30.9,5,2025-06-01,177
+E1217,Bengaluru,Apartment,Standard,4,,1,,2,2025-06-07,231
+E1027,Kolkata,Villa,Standard,4,2590,2,18.9,3,2026-10-23,321
+E1187,Kolkata,Villa,Standard,6,1660,2,34.8,6,2025-06-24,231
+E1069,Mumbai,Apartment,Standard,3,1230,2,26.6,5,2024-12-02,177
+E1011,Bengaluru,,Time_of_Day,5,1250,3,23.7,7,2025-09-28,216
+E1233,Mumbai,Independent House,Standard,4,2330,1,29.7,4,2025-07-15,267
+E1104,Delhi,Villa,Standard,6,1700,1,36.7,5,2025-05-17,350
+E1182,Mumbai,Apartment,Solar_Net_Metering,6,1000,1,27.7,6,2026-09-10,109
+E1036,Chennai,Apartment,Standard,4,990,1,26.5,5,2025-12-28,71
+E1222,Kolkata,Apartment,Standard,4,890,1,30.9,2,2026-07-15,87
+E1213,Kolkata,Independent House,Time_of_Day,6,820,1,27.4,0,2026-04-07,100
+E1206, Chennai ,Independent House,Standard,4,1680,1,28.6,1,2026-02-13,227
+E1022,Delhi,Independent House,Time_of_Day,6,960,1,19.6,0,2026-01-17,200
+E1083,Chennai,Independent House,Standard,4,1000,2,28.7,9,2026-01-28,295
+E1225,Mumbai,Apartment,Standard,3,430,2,31.5,6,2026-08-15,168
+E1008,Mumbai,Villa,Standard,4,3320,2,25.6,10,2025-10-05,308
+E1212,Mumbai,Apartment,Standard,4,820,1,29.8,9,2026-03-26,289
+E1049,Mumbai,Apartment,Solar_Net_Metering,5,1090,1,31.1,4,2026-07-22,148
+E1059,Delhi,Apartment,Standard,3,1300,1,35.1,7,2025-05-20,127
+E1028,Kolkata,Apartment,Standard,5,1030,1,31.0,10,2026-06-23,185
+E1236,Mumbai,Apartment,Standard,3,400,0,28.8,7,2025-08-01,84
+E1178,Mumbai,Apartment,Standard,4,700,0,26.3,9,2026-02-26,199
+E1243,Delhi,Independent House,Standard,3,1770,1,24.2,5,2025-03-01,211
+E1226,Bengaluru,Independent House,Standard,1,1820,1,20.4,9,2024-12-15,158
+E1149,Mumbai,Independent House,Standard,3,1240,3,27.4,2,2026-01-28,333
+E1127,Delhi,Apartment,Time_of_Day,1,950,2,,8,2026-06-22,256
+E1107,Bengaluru,Independent House,Solar_Net_Metering,3,1740,2,27.8,10,2025-05-27,277
+E1057,Bengaluru,Apartment,Standard,3,530,2,25.8,2,2025-06-05,68
+E1234,Chennai,Apartment,Standard,4,880,1,31.8,10,2026-06-18,174
+E1203,Bengaluru,Apartment,Solar_Net_Metering,3,710,2,23.2,10,2025-10-01,160
+E1073,Bengaluru,Villa,Standard,3,2390,3,26.7,7,2026-03-27,371
+E1058,Delhi,Independent House,Standard,4,1300,1,14.0,4,2025-01-02,164
+E1019,Delhi,Apartment,Standard,1,890,2,14.8,4,2025-10-06,265
+E1129,Chennai,Apartment,Standard,5,1090,1,27.1,1,2026-10-13,172
+E1096,Mumbai,Villa,Standard,3,1930,2,30.6,9,2025-05-04,266
+E1105,Delhi,Apartment,Time_of_Day,4,790,1,26.3,10,2025-03-14,203
+E1215,Mumbai,Apartment,Standard,3,780,1,26.9,6,2025-09-04,267
+E1085,Mumbai,Apartment,Time_of_Day,4,590,2,23.7,3,2025-11-22,224
+E1026,Kolkata,Apartment,Solar_Net_Metering,3,840,0,,6,2025-06-05,40
+E1091,Bengaluru,Villa,Standard,1,2360,2,22.6,10,2025-01-08,262
+E1018,Kolkata,Independent House,Time_of_Day,2,1140,2,27.8,5,2026-07-14,217
+E1196,Delhi,Apartment,Standard,4,570,2,28.1,1,2026-08-15,246
+E1077,Bengaluru,Apartment,Standard,4,780,1,23.0,1,2025-10-04,123
+E1183,Mumbai,,Time_of_Day,4,980,2,21.9,5,2024-12-23,159
+E1135,Bengaluru,Apartment,Standard,6,730,2,20.5,4,2025-01-11,321
+E1209,Bengaluru,Apartment,Standard,5,540,0,23.6,9,2025-10-01,191
+E1093,Kolkata,Villa,Time_of_Day,1,1840,1,27.1,8,2025-07-23,210
+E1010,Kolkata,Independent House,Time_of_Day,2,1180,2,19.8,3,2026-10-09,223
+E1152,Delhi,,Time_of_Day,1,870,1,34.7,5,2026-05-04,40
+E1176,Mumbai,Apartment,Time_of_Day,3,870,2,28.4,9,2026-01-06,131
+E1164,Bengaluru,Independent House,Standard,3,1910,4,23.6,7,2025-09-06,268
+E1123,Kolkata,Independent House,Time_of_Day,5,790,2,27.3,7,2025-09-01,239
+E1188,Kolkata,Villa,Time_of_Day,4,,3,28.2,0,2025-07-31,324
+E1136,Bengaluru,Apartment,Time_of_Day,3,550,0,24.1,9,2026-03-07,42
+E1038,Bengaluru,Villa,Standard,7,1440,1,22.1,2,2026-03-22,151
+E1074,Mumbai,Independent House,Time_of_Day,5,1510,2,24.7,4,2026-01-02,321
+E1218,Delhi,Apartment,Time_of_Day,4,870,1,36.1,5,2026-06-02,185
+E1116,Mumbai,Apartment,Standard,5,860,1,29.7,10,2026-07-25,276
+E1143,Bengaluru,Apartment,Standard,3,1380,1,24.3,2,2025-09-27,219
+E1015,Mumbai,Apartment,Standard,3,970,0,32.5,10,2025-05-02,206
+E1066,Delhi,Villa,Standard,4,2670,3,17.8,2,2026-01-14,291
+E1045,Chennai,Independent House,Standard,5,1720,1,28.2,1,2025-02-18,208
+E1138,Delhi,Apartment,Standard,3,890,2,31.3,3,2026-04-21,201
+E1047,Kolkata,Apartment,Standard,3,940,2,18.9,2,2025-01-03,160
+E1067,Delhi,Apartment,Standard,4,800,1,31.3,4,2026-03-25,199
+E1031, Delhi ,Apartment,Standard,3,980,3,20.0,10,2026-09-12,318
+E1227,Mumbai,Apartment,Time_of_Day,4,870,2,31.3,10,2025-04-06,210
+E1190,Mumbai,Independent House,Time_of_Day,5,1910,1,25.7,8,2025-12-17,245
+E1193,Chennai,Apartment,Standard,7,710,1,31.1,5,2025-04-21,307
+E1060,Mumbai,Apartment,Time_of_Day,2,730,2,26.5,10,2025-01-19,250
+E1078,Bengaluru,Apartment,Standard,2,1110,3,25.3,1,2025-08-08,283
+E1228,Mumbai,Apartment,Standard,4,730,0,29.0,1,2025-10-08,136
+E1148,Bengaluru,Apartment,Standard,4,990,0,19.8,8,2025-10-31,131
+E1201,Chennai,Apartment,Solar_Net_Metering,2,1260,2,35.9,8,2026-05-29,257
+E1159,Delhi,Apartment,Standard,6,930,0,28.0,9,2026-03-14,247
+E1034,Delhi,Apartment,Standard,3,,0,36.2,3,2025-05-22,129
+E1114,Delhi,Independent House,Standard,4,1540,2,17.6,4,2026-01-12,229
+E1071,Delhi,Independent House,Standard,3,1080,1,33.5,3,2026-07-23,196
+E1192,Mumbai,Apartment,Standard,6,540,1,31.4,5,2026-06-03,223
+E1086,Chennai,Apartment,Standard,4,1150,2,31.7,9,2025-07-21,237
+E1202,Mumbai,Apartment,Time_of_Day,1,650,3,25.9,8,2026-01-06,160
+E1079,Bengaluru,Independent House,Standard,5,610,2,25.6,0,2026-08-15,207
+E1241,Mumbai,Apartment,Standard,5,1090,1,30.9,10,2025-07-08,323
+E1122,Kolkata,Apartment,Standard,4,510,0,19.9,1,2025-11-29,40
+E1039,Bengaluru,Apartment,Standard,6,430,3,19.8,4,2026-02-15,223
+E1020,Chennai,Apartment,Time_of_Day,6,730,2,27.2,10,2025-10-11,281
+E1235,Delhi,Apartment,Time_of_Day,3,680,1,24.4,5,2026-02-22,137
+E1162,Delhi,Independent House,Standard,5,1000,1,32.2,8,2025-07-18,236
+E1218,Delhi,Apartment,Time_of_Day,4,870,1,36.1,5,2026-06-02,185
+E1016,Bengaluru,Independent House,Standard,2,1970,1,24.5,10,2026-08-29,152
+E1163,Chennai,Independent House,Solar_Net_Metering,6,1650,1,29.9,0,2026-06-24,158
+E1145,Delhi,Apartment,Standard,4,400,2,33.8,8,2025-04-29,201
+E1075,Delhi,Apartment,Standard,5,400,1,26.2,3,2025-08-27,172
+E1160,Bengaluru,Independent House,Standard,6,870,2,27.4,4,2026-03-27,173
+E1205,Bengaluru,Villa,Standard,2,2190,1,20.8,8,2026-01-13,124
+E1165,Delhi,Apartment,Standard,3,400,1,29.1,3,2026-08-16,190
+E1121,Kolkata,Independent House,Time_of_Day,5,1930,2,29.3,7,2026-08-02,190
+E1012,Delhi,Independent House,Solar_Net_Metering,4,1630,1,28.2,3,2025-03-13,267
+E1063,Delhi,Villa,Standard,4,2100,1,29.8,2,2026-07-29,217
+E1099,Kolkata,Independent House,Standard,4,1350,2,19.6,6,2025-12-18,199
+E1055,Delhi,Apartment,Standard,4,900,0,25.3,5,2025-03-01,133
+E1111,Delhi,Apartment,Time_of_Day,7,850,1,31.8,8,2026-04-14,323
+E1177,Delhi,Apartment,Standard,4,570,1,34.4,1,2025-05-05,47
+E1171,Mumbai,Independent House,Standard,5,1670,2,24.8,0,2025-09-14,219
+E1197,Bengaluru,Apartment,Standard,4,900,2,27.6,9,2025-06-02,254
+E1181,Bengaluru,Independent House,Time_of_Day,3,1130,4,28.3,1,2026-06-21,273
+E1238,Bengaluru,Apartment,Time_of_Day,3,580,1,21.6,0,2024-12-27,168
+E1137,Kolkata,Apartment,Time_of_Day,3,810,0,20.8,2,2025-12-15,102
+E1210,Delhi,Apartment,Standard,4,1080,2,31.4,2,2026-07-22,275
+E1207,Mumbai,Apartment,Solar_Net_Metering,1,400,2,30.9,7,2026-03-09,157
+E1156,Mumbai,Apartment,Time_of_Day,3,480,2,25.9,7,2026-03-04,168
+E1006,Mumbai,Independent House,Standard,1,2110,2,29.1,2,2026-02-05,266
+E1001,Kolkata,Independent House,Standard,4,2070,1,33.0,0,2025-05-18,131
+E1171,Mumbai,Independent House,Standard,5,1670,2,24.8,0,2025-09-14,219
+E1232,Mumbai,,Time_of_Day,4,1660,1,31.4,5,2026-06-19,290
+E1157,Delhi,Apartment,Standard,4,680,1,17.5,9,2025-10-06,154
+E1037,Bengaluru,Apartment,Time_of_Day,5,550,2,22.4,2,2025-09-17,250
+E1239,Bengaluru,Villa,Standard,4,2900,3,21.3,9,2024-12-19,342
+E1133,Delhi,Villa,Time_of_Day,3,2340,1,18.0,1,2026-10-02,187
+E1242,Bengaluru,Independent House,Standard,4,1790,3,23.8,3,2025-03-07,291
+E1175,Bengaluru,Villa,Standard,3,2620,2,21.9,7,2025-01-06,283
+E1072,Bengaluru,Villa,Standard,6,3000,3,23.2,7,2025-10-10,444
+E1250,Chennai,Apartment,Time_of_Day,2,970,2,26.9,10,2026-09-21,326
+E1025,Mumbai,Apartment,Standard,-3,1110,2,27.0,1,2025-01-04,222
+E1246,Delhi,Apartment,Standard,4,680,1,33.3,4,2026-07-11,239
+E1155,Kolkata,Independent House,Standard,3,1200,3,23.8,,2026-09-07,281
+E1033,Delhi,Independent House,Standard,4,1660,0,17.5,6,2025-01-16,234
+E1124,Bengaluru,Apartment,Standard,1,920,3,24.6,6,2025-01-26,214
+E1230,Mumbai,Independent House,Time_of_Day,7,1320,1,32.5,5,2026-05-07,144
+E1061,Delhi,Apartment,Time_of_Day,3,680,2,32.0,9,2026-04-18,288
+E1080,Mumbai,Apartment,Standard,3,770,3,27.1,5,2025-09-06,238
+E1062,Delhi,Apartment,Standard,3,730,2,33.5,5,2026-07-04,176
+E1040,Mumbai,Villa,Time_of_Day,4,1880,2,21.4,7,2025-10-27,201
+E1050,Kolkata,Apartment,Standard,5,960,2,21.2,6,2026-01-06,241
+E1130,Kolkata,Apartment,Standard,4,1150,2,27.8,10,2026-04-17,268
+E1147,Delhi,Apartment,Standard,4,970,1,29.0,6,2025-08-12,203
+E1134,Bengaluru,Villa,Standard,5,2680,3,26.7,3,2026-06-02,434
+E1244,Mumbai,Independent House,Time_of_Day,5,680,3,26.6,7,2025-11-25,329
+E1103,Chennai,Independent House,Standard,6,1760,1,24.2,5,2026-01-10,276
+E1081,Mumbai,Independent House,Standard,3,660,1,24.1,10,2026-01-22,175
+E1220,Delhi,Apartment,Standard,5,1250,1,36.9,2,2025-06-12,237
+E1144,Mumbai,Independent House,Standard,3,2260,2,30.9,,2025-04-01,381
+E1041,Delhi,Independent House,Solar_Net_Metering,6,1410,2,35.4,4,2025-05-15,229
+E1098,Bengaluru,Independent House,Time_of_Day,4,2200,3,27.3,1,2026-06-06,284
+E1101,Chennai,Independent House,Time_of_Day,5,,3,30.3,8,2025-04-13,344
+E1115,Bengaluru,Villa,Time_of_Day,6,2080,1,22.9,0,2025-02-20,346
+E1014,Delhi,Villa,Standard,3,1810,4,28.5,6,2026-08-04,393
+E1054,Chennai,Apartment,Standard,7,590,2,27.1,3,2025-02-17,210
+E1090, Delhi ,Independent House,Time_of_Day,4,1260,1,23.8,2,2026-02-26,91
+E1029,Delhi,Apartment,Solar_Net_Metering,5,850,1,15.3,7,2026-01-07,80
+E1247,Bengaluru,Apartment,Standard,1,780,2,19.3,8,2025-11-21,153
+E1180,Bengaluru,Apartment,Standard,5,890,1,27.1,3,2025-04-17,221
+E1161,Delhi,Independent House,Standard,4,1280,2,34.3,8,2025-05-01,290
+E1118,Bengaluru,Apartment,Solar_Net_Metering,2,850,2,24.3,10,2026-04-03,156
+E1245,Bengaluru,Independent House,Time_of_Day,-1,1270,1,26.6,6,2026-06-13,111
+E1076,Delhi,Apartment,Time_of_Day,2,590,2,23.2,10,2025-09-14,244
+E1249,Chennai,Villa,Time_of_Day,4,2120,3,27.4,0,2026-01-17,303
+E1056,Mumbai,Apartment,Standard,3,910,3,33.6,9,2025-05-19,247
+E1191,Bengaluru,Independent House,Standard,3,1770,2,27.2,7,2025-06-06,128
+E1200,Bengaluru,Independent House,Time_of_Day,5,1700,1,22.2,0,2026-10-05,164
+E1173,Chennai,Independent House,Standard,3,1950,3,26.8,,2026-03-04,368
+E1135,Bengaluru,Apartment,Standard,6,730,2,20.5,4,2025-01-11,321
+E1106,Chennai,Independent House,Solar_Net_Metering,6,1310,2,34.8,10,2025-06-04,197
+E1229,Chennai,Apartment,Standard,3,700,0,27.8,5,2026-01-28,122
+E1043,Bengaluru,Independent House,Time_of_Day,4,1220,2,25.4,3,2026-03-01,202
+E1035,Kolkata,Apartment,Time_of_Day,2,780,1,23.3,5,2025-09-14,187
+E1167,Chennai,Independent House,Time_of_Day,7,1630,2,31.6,6,2025-06-03,315
+E1172,Delhi,Apartment,Standard,3,1010,1,19.1,4,2026-01-07,169
+E1088,Bengaluru,Independent House,Standard,4,1570,3,21.5,9,2025-02-07,331
+E1112,Bengaluru,Independent House,Standard,2,1110,0,25.7,,2025-05-13,151
+E1219,Chennai,Apartment,Time_of_Day,2,1030,3,26.8,3,2025-02-14,277
+E1221,Chennai,Independent House,Standard,5,1650,1,27.5,3,2026-09-22,307
+E1065,Delhi,Apartment,Standard,7,650,1,33.8,,2025-05-06,164
+E1108,Mumbai,Independent House,Solar_Net_Metering,5,840,0,,2,2025-11-11,40
+E1100,Kolkata,Independent House,Standard,1,1410,2,21.8,8,2024-12-17,159
+E1240,Chennai,Apartment,Standard,1,810,1,28.4,3,2026-03-03,188
+E1146,Kolkata,Apartment,Solar_Net_Metering,2,1230,2,20.0,4,2025-11-03,136
+E1030,Delhi,Apartment,Standard,1,740,2,34.8,10,2026-06-23,208
+E1185,Kolkata,Apartment,Time_of_Day,8,690,0,24.5,3,2026-01-12,73
+E1053,Kolkata,Apartment,Solar_Net_Metering,3,1050,0,33.1,3,2025-05-06,86
+E1094,Kolkata,Apartment,Time_of_Day,3,630,1,22.0,10,2026-02-05,118
+E1046,Delhi,Villa,Standard,5,2550,4,12.8,2,2025-12-07,359
+E1042,Delhi,Villa,Time_of_Day,3,1530,1,24.9,7,2026-09-02,195
+E1170,Chennai,Apartment,Standard,5,1070,2,32.4,3,2026-04-23,302
+E1115,Bengaluru,Villa,Time_of_Day,6,2080,1,22.9,0,2025-02-20,346
+E1070,Delhi,Apartment,Standard,5,540,0,33.1,2,2025-07-11,249
+E1211,Mumbai,Independent House,Standard,2,980,1,31.0,7,2025-05-14,144
+E1084,Delhi,Apartment,Standard,3,1130,1,32.3,8,2025-07-12,218
+E1208,Chennai,Apartment,Solar_Net_Metering,5,600,1,25.3,3,2025-11-29,203
+E1186,Delhi,Apartment,Time_of_Day,5,920,2,16.2,3,2025-10-15,345
+E1179,Chennai,Villa,Standard,4,1850,1,27.5,1,2025-12-26,177
+E1032,Delhi,Independent House,Time_of_Day,6,1800,1,32.9,1,2026-05-03,229
+E1017,Delhi,Independent House,Time_of_Day,4,1810,2,32.6,0,2026-07-21,283
+E1109,Delhi,Independent House,Standard,4,1850,1,25.1,10,2025-03-24,241
+E1150,Bengaluru,Independent House,Solar_Net_Metering,4,1420,1,25.0,1,2026-08-31,68
+E1082,Mumbai,Apartment,Standard,3,940,2,30.3,4,2025-03-11,242
+E1140,mumbai,,Standard,7,710,2,33.5,0,2026-05-10,252
+E1128,Delhi,Apartment,Standard,6,930,0,17.6,2,2025-11-24,225
+E1092,Chennai,Apartment,Standard,4,,0,25.6,1,2026-10-08,206
+E1231,Bengaluru,Apartment,Standard,5,680,1,22.2,7,2026-10-16,248
+E1024,Mumbai,Apartment,Time_of_Day,5,1170,2,34.2,7,2026-07-01,273
+E1131,Delhi,Independent House,Time_of_Day,4,2380,2,14.2,7,2024-12-24,194
+E1168,Bengaluru,Apartment,Standard,6,1240,1,25.1,1,2026-06-15,162
+E1198,Chennai,Apartment,Solar_Net_Metering,7,880,2,33.6,6,2026-06-03,338
+E1064,Mumbai,Apartment,Standard,4,1200,2,29.7,2,2026-04-25,218
+E1141,Delhi,Independent House,Standard,2,1080,2,37.5,1,2025-06-23,222
+E1223,Mumbai,Apartment,Standard,3,1260,2,34.8,1,2026-06-21,398
+E1002,Bengaluru,Independent House,Standard,2,1980,2,20.9,1,2025-11-21,139
+E1132,Bengaluru,Apartment,Time_of_Day,4,620,2,24.1,1,2026-10-02,119
+E1102,Mumbai,Apartment,Standard,5,950,3,31.3,8,2025-08-25,279
+E1044,Delhi,Independent House,Standard,1,1070,2,33.4,1,2026-08-09,252
+E1199,Bengaluru,Apartment,Standard,5,1160,2,20.8,7,2025-10-19,303
+E1070,Delhi,Apartment,Standard,5,540,0,33.1,2,2025-07-11,249
+E1194,Delhi,,Standard,4,1040,0,11.5,0,2025-11-25,178
+E1005,Delhi,Independent House,Time_of_Day,4,1590,2,34.3,6,2025-05-07,275
+E1120,Mumbai,Apartment,Time_of_Day,5,400,1,30.2,8,2025-03-05,212
+E1021,Delhi,Independent House,Standard,4,1740,0,35.5,6,2026-06-10,242
+E1224,Delhi,Apartment,Standard,4,900,2,21.5,2,2026-09-30,255
+E1169,Bengaluru,Villa,Time_of_Day,4,2240,0,21.2,5,2025-01-27,215
+E1214,Bengaluru,Apartment,Time_of_Day,4,570,3,26.1,1,2025-02-26,251
+E1195,Chennai,Independent House,Standard,4,990,1,32.2,10,2025-07-02,182
+E1023,Mumbai,Apartment,Standard,3,460,3,26.5,8,2025-02-10,255
+E1052,Bengaluru,Apartment,Standard,7,540,1,25.1,4,2025-07-18,276
+E1003,Mumbai,Villa,Solar_Net_Metering,3,2330,2,24.2,3,2024-12-31,229
+E1158,Delhi,Apartment,Standard,4,400,0,35.6,2,2025-06-27,48
+E1125, Chennai ,Apartment,Time_of_Day,3,910,1,30.5,1,2026-08-23,149
+E1013,Delhi,Apartment,Standard,3,1270,0,29.8,6,2026-07-28,176
+E1068,Mumbai,Independent House,Solar_Net_Metering,5,1140,3,25.2,5,2025-12-11,331
+E1051,Kolkata,Apartment,Solar_Net_Metering,3,1340,1,21.1,4,2025-10-20,106
+E1117,Chennai,Villa,Standard,2,2120,2,27.8,10,2026-10-10,266
+E1204,Kolkata,Villa,Time_of_Day,1,2580,0,27.9,4,2026-02-25,262
+E1154,Bengaluru,Independent House,Standard,4,1330,2,21.5,7,2025-01-10,245
+E1237,DELHI,Apartment,Time_of_Day,5,1150,1,32.8,10,2025-07-07,239
+E1009,Bengaluru,Apartment,Standard,3,1080,1,26.8,5,2026-06-19,96
+E1004,Chennai,Independent House,Time_of_Day,3,1470,2,25.8,0,2024-12-18,215
+E1142,Delhi,Apartment,Standard,4,1140,1,12.0,2,2025-12-07,212
+E1216,Kolkata,Apartment,Standard,4,680,1,24.7,2,2025-09-25,195
+E1087,Delhi,Apartment,Time_of_Day,2,580,1,18.3,8,2025-10-10,123
+E1110,Mumbai,Apartment,Standard,4,400,0,24.7,10,2026-01-10,70
+E1189,Chennai,Independent House,Solar_Net_Metering,4,1320,2,25.5,1,2025-10-19,213
+E1153,Chennai,Apartment,Standard,4,920,2,29.1,4,2025-08-01,295
+E1113,Delhi,Apartment,Standard,5,1010,0,26.0,2,2026-02-25,131
+E1097,Kolkata,Apartment,Standard,3,670,1,24.6,2,2026-09-17,134
+E1048,Kolkata,Apartment,Standard,3,1100,1,22.0,9,2025-09-06,66
+E1248,Kolkata,Apartment,Standard,3,880,2,21.0,2,2025-10-16,305
+E1166,Chennai,Independent House,Standard,3,860,1,30.9,5,2026-03-05,161
